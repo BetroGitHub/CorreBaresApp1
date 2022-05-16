@@ -1,0 +1,2 @@
+rootProject.name = "CorreBares App"
+include ':app'
